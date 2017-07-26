@@ -1,22 +1,16 @@
-## Welcome to GitHub Pages
+## Mo's website is finally here
 
-You can use the [editor on GitHub](https://github.com/charlottesca/I-made-a-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As Mo would expect, someone has finally created a website that is all. about. him. Shame it's ten years later than it should have been. It's lucky he's a patient rabbit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mo's needs
+Mo does not like to eat most things. He will refuse even the best quality produce, if it doesn't fit his standards. These are some things he won't eat:
 
 ```markdown
-Syntax highlighted code block
+Vegetables
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- Carrots (weird, right?)
+- Spinach
+- Anything else you can think of.
 
 1. Numbered
 2. List
